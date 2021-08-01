@@ -2,7 +2,7 @@
 ### This is a repository with all my projects from the summer of 2021.
 ---
 **In C# language:**
-- [**Snake**](https://github.com/yevhenii-sir/MyAllProjects#:snake:Snake)
+- [**Snake**](https://github.com/yevhenii-sir/MyAllProjects#snakesnake)
 
 ---
 
